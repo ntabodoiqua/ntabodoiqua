@@ -39,9 +39,13 @@ I am a Software Engineering student at **Hanoi University of Science and Technol
 
 ## 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ntabodoiqua&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ntabodoiqua&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntabodoiqua&show_icons=true&theme=tokyonight" alt="ntabodoiqua's Stats" height="180" />
+  
+  <img src="https://streak-stats.demolab.com/?user=ntabodoiqua&theme=tokyonight" alt="ntabodoiqua's Streak" height="180" />
 </p>
+
+### 👨‍💻 Top Languages
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntabodoiqua&layout=compact&theme=tokyonight" alt="ntabodoiqua's Top Languages" height="180" />
 
 ---
 
